@@ -1,0 +1,16 @@
+{
+  "Dart Test Snippet": {
+      "prefix": "aaa",
+      "body": [
+          "test('should $1', () async {",
+          "  //arrange",
+          "  $2",
+          "  //act",
+          "  ",
+          "  //assert",
+          "  $0",
+          "});"
+      ],
+      "description": "Create a test case for Dart"
+  }
+}
