@@ -1,4 +1,4 @@
-# Dart Test Case Snippet
+# Dart Test Snippet
 
 ## Purpose
 
