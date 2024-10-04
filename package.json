@@ -2,7 +2,7 @@
   "name": "dart-test-snippet",
   "displayName": "Dart Test Snippet",
   "description": "Provides a test snippet for Dart",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "SamVictor",
   "icon": "images/icon.png",
   "keywords": ["dart", "testing", "snippet"],
